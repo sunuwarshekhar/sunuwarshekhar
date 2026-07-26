@@ -15,6 +15,7 @@ I enjoy building scalable web applications, backend services, and AI-powered too
 ### Backend
 - Node.js
 - Express.js
+- Nest.js
 - PostgreSQL
 - MongoDB
 - Redis
