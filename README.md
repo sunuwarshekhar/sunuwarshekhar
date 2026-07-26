@@ -35,14 +35,11 @@ I enjoy building scalable web applications, backend services, and AI-powered too
 ---
 
 ### 🧠 NeetCode Solutions
-A collection of my JavaScript solutions for the NeetCode 150 roadmap, with explanations and complexity analysis.
+A collection of my JavaScript solutions for the NeetCode 150 roadmap.
 
 🔗 **Repository:** https://github.com/sunuwarshekhar/neetcode-submissions
 
 ---
-
-### 🌐 Personal Portfolio
-My personal website showcasing my projects, experience, and technical skills.
 
 ## 📫 Connect with me
 
