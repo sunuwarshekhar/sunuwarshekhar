@@ -44,5 +44,5 @@ A collection of my JavaScript solutions for the NeetCode 150 roadmap.
 ## 📫 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shekhar-sunuwar-293449149/)
-- 🌐 [Portfolio](https://shekhar-sunuwar.vercel.app/))
+- 🌐 [Portfolio](https://shekhar-sunuwar.vercel.app/)
 - 📧 [Email](mailto:forofficialshekhar@gmail.com)
